@@ -1,0 +1,36 @@
+{
+  "nav_b":[
+    {
+      "name":"Databases",
+      "src":"img/dat.png"
+    },
+    {
+      "name":"SQL",
+      "src":"img/sql.png"
+    },
+    {
+      "name":"User accounts",
+      "src":"img/user.png"
+    },
+    {
+      "name":"Export",
+      "src":"img/exp.png"
+    },
+    {
+      "name":"Import",
+      "src":"img/imp.png"
+    },
+    {
+      "name":"Variables",
+      "src":"img/var.png"
+    },
+    {
+      "name":"Setings",
+      "src":"img/set.png"
+    },
+    {
+      "name":"Replication",
+      "src":"img/rep.png"
+    }
+  ]
+}
