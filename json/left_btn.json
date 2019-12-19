@@ -1,0 +1,102 @@
+[
+  {
+    "headName" :  "New",
+    "icon" : "img/new2.png",
+    "padding_left": "0px",
+    "id" : 1,
+    "subMenu" :  [
+      {
+        "headName" :  "information",
+        "icon" : "img/dat.png",
+        "padding_left": "30px",
+        "id": 11,
+        "subMenu" :  [
+          {
+            "headName" : "sub_domki_domki",
+            "icon" : "img/plug.png",
+            "padding_left": "30px",
+            "id" : 111,
+            "subMenu" :  [{
+              "id" : 1111,
+              "headName" : "sub_domki_domki",
+              "icon" : "img/plug.png",
+              "subMenu" : null,
+              "padding_left": "60px"
+            }
+          ]}
+        ]
+      },
+      {
+        "headName" :  "New",
+        "icon" : "img/new3.png",
+        "padding_left": "30px",
+        "id": 12,
+        "subMenu" :  [
+          {
+            "headName" : "sub_domki_domki",
+            "icon" : "img/plug.png",
+            "subMenu" : null,
+            "padding_left": "60px"
+          }
+        ]
+      },{
+        "headName" :  "car",
+        "icon" : "img/new.png",
+        "padding_left": "30px",
+        "id": 13,
+        "subMenu" :  [
+          {
+            "headName" : "audi",
+            "icon" : "img/plug.png",
+            "subMenu" : null,
+            "id" : 131,
+            "padding_left": "60px"
+          }
+        ]
+      },{
+        "headName" :  "bmw",
+        "icon" : "img/new.png",
+        "padding_left": "30px",
+        "id": 14,
+        "subMenu" :  [
+          {
+            "headName" : "sub_domki_domki",
+            "icon" : "img/plug.png",
+            "id" : 141,
+            "subMenu" : null,
+            "padding_left": "60px"
+          }
+        ]
+      },{
+        "headName" :  "SUB_DOMKI3",
+        "icon" : "img/new.png",
+        "padding_left": "30px",
+        "id": 15,
+        "subMenu" :  [
+          {
+            "headName" : "sub_domki_domki",
+            "icon" : "img/plug.png",
+            "id" : 151,
+            "subMenu" : null,
+            "padding_left": "60px"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id" : 2,
+    "headName" : "DB",
+    "icon" : "img/dat.png",
+    "padding_left" : "0px",
+    "subMenu" : [
+      {
+        "id": 21,
+        "headName" : "New",
+        "icon" : "img/new3.png",
+        "subMenu" : null,
+        "padding_left": "30px"
+      }
+    ]
+  }
+]
